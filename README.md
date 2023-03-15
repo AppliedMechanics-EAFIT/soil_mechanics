@@ -8,6 +8,7 @@ Herramientas para el curso de mecánica de suelos de la Universidad EAFIT.
 1. [Mohr circles and stress paths](./notebooks/mohr_circles_and_stress_paths.ipynb)
 1. [Total and effective vertical stress in stratified soil profile](./notebooks/stress_vs_depth.ipynb)
 1. [Unified Soil Classification System - USCS](./notebooks/uscs_classification.ipynb)
+1. [Particle-Size Distribution (Gradation) of Soils](./notebooks/particle_size_distrib.ipynb)
 
 ## Licencia
 

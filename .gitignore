@@ -132,3 +132,4 @@ dmypy.json
 # Specific files
 notebooks/granulometria.py
 notebooks/clasificacion_input.xlsx
+notebooks/granulometria_input.xlsx
