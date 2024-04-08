@@ -11,6 +11,7 @@ Herramientas para el curso de mecánica de suelos de la Universidad EAFIT.
 1. [Particle-Size Distribution (Gradation) of Soils](./notebooks/particle_size_distrib.ipynb)
 1. [One-dimensional consolidation](./notebooks/consolidation_1D.ipynb)
 1. [Preconsolidation pressure / Yielding stress](./notebooks/preconsol_pressure.ipynb)
+1. [One-dimensional consolidation](./notebooks/steady_flow_2D.ipynb.ipynb)
 
 ## Licencia
 
