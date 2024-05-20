@@ -1,0 +1,10 @@
+ipympl
+ipykernel
+ipywidgets
+IPython
+numpy
+pandas
+scipy
+matplotlib
+continuum_mechanics
+pysigmap
