@@ -4,6 +4,7 @@ Herramientas para el curso de mecánica de suelos de la Universidad EAFIT.
 
 ## Contenido
 
+1. [Specific surface](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/specific_surface.ipynb) 
 1. [Mohr circle](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles.ipynb)  
 1. [Mohr circles and stress paths](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb)
 1. [Total and effective vertical stress in stratified soil profile](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/stress_vs_depth.ipynb)

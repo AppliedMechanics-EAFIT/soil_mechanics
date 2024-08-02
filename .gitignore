@@ -133,3 +133,4 @@ dmypy.json
 data/
 notebooks/granulometria.py
 *.eps
+notebooks/consolidation_1D_rf.ipynb
