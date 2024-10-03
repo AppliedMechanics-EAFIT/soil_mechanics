@@ -12,6 +12,7 @@ Herramientas para el curso de mecánica de suelos de la Universidad EAFIT.
 1. [Particle-size Distribution (Gradation) of Soils](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/particle_size_distrib.ipynb)
 1. [One-dimensional consolidation](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb)
 1. [Preconsolidation pressure / Yielding stress](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb)
+1. [One-dimensional rainfall infiltration](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/rainfall_infiltration_1D.ipynb)
 1. [Two-dimensional steady flow](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/steady_flow_2D.ipynb)
 
 ## Licencia
