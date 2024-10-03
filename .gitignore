@@ -1,3 +1,5 @@
+.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -133,4 +135,5 @@ dmypy.json
 data/
 notebooks/granulometria.py
 *.eps
-notebooks/consolidation_1D_rf.ipynb
+notebooks/consolidation_1D_rf*
+notebooks/TRIG*
