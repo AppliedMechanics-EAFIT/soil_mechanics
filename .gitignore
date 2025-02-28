@@ -1,5 +1,17 @@
 .gitignore
 
+
+# Specific files and folders
+data/
+notebooks/granulometria.py
+*.eps
+notebooks/consolidation_1D_rf*
+notebooks/TRIG*
+DFR
+Doria_MSc_thesis
+Pizarro_MSc_thesis
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,10 +142,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-# Specific files
-data/
-notebooks/granulometria.py
-*.eps
-notebooks/consolidation_1D_rf*
-notebooks/TRIG*
