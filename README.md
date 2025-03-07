@@ -13,8 +13,8 @@ Herramientas para el curso de **Fundamentos de mecánica de suelos** de suelos d
 **Conceptos de la Mecánica Aplicada en Medios Porosos**
 
 1. [Esfuerzos verticales totales y efectivos en suelos estratificados](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/stress_vs_depth.ipynb)
-1. [Círculo de Mohr](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles.ipynb)  
-1. [Círculo de Mohr y trayectorias de esfuerzos](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb)
+1. [Círculo de Mohr y círculo de tracciones](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles.ipynb)  
+1. [Círculo de Mohr vs trayectorias de esfuerzos](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb)
 
 **Flujo de Agua a Través del Suelo**
 
