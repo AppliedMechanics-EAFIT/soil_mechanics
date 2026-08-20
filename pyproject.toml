@@ -1,0 +1,24 @@
+[project]
+name = "eafit-soil-mechanics"
+version = "0.1.0"
+description = "Notas y herramientas para el curso de Fundamentos de Mecánica de Suelos de la Universidad EAFIT"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "continuum-mechanics>=0.2.2",
+    "ipykernel>=6.29",
+    "ipympl>=0.9",
+    "ipywidgets>=8.1",
+    "jupyter-book>=2.1.2",
+    "matplotlib>=3.10",
+    "numpy>=2.0",
+    "openpyxl>=3.1",
+    "pandas>=2.2",
+    "pysigmap>=0.1.0",
+    "requests>=2.32",
+    "scipy>=1.16",
+]
+
+[tool.uv]
+package = false
+

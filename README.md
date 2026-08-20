@@ -1,6 +1,20 @@
 # Fundamentos de mecánica de suelos
 
-Herramientas para el curso de **Fundamentos de mecánica de suelos** de suelos de la Universidad EAFIT.
+Notas y herramientas para el curso de pregrado **Fundamentos de Mecánica de Suelos** de la Universidad EAFIT, organizadas como un Jupyter Book.
+
+[![Jupyter Book](https://img.shields.io/badge/Jupyter_Book-ver_sitio-F37726?style=for-the-badge&logo=jupyter&logoColor=white)](https://appliedmechanics-eafit.github.io/soil_mechanics/)
+
+## Uso local
+
+Con el entorno ubicado en `/home/eamontoyaa/.venvs/EAFIT-uv/`:
+
+```bash
+source /home/eamontoyaa/.venvs/EAFIT-uv/bin/activate
+pip install -r requirements.txt
+jupyter book build --html --strict
+```
+
+El sitio se genera en `_build/html`. Los notebooks también pueden abrirse individualmente desde el contenido siguiente.
 
 ## Contenido
 
@@ -24,7 +38,7 @@ Herramientas para el curso de **Fundamentos de mecánica de suelos** de suelos d
 **Respuesta Hidro-Mecánica de Geomateriales**
 
 1. [Consolidación unidimensional](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb)
-1. [Esfuerzo de preconsolidation o de fluencia](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb)
+1. [Esfuerzo de preconsolidación o de fluencia](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb)
 
 ## Licencia
 

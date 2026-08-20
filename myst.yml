@@ -1,0 +1,39 @@
+version: 1
+project:
+  title: Fundamentos de mecánica de suelos
+  authors:
+    - name: Daniel F. Ruiz, Exneyder A. Montoya-Araque y Universidad EAFIT
+  copyright: '2026'
+  github: AppliedMechanics-EAFIT/soil_mechanics
+  thebe:
+    binder:
+      repo: AppliedMechanics-EAFIT/soil_mechanics
+      provider: github
+      url: https://mybinder.org
+      ref: main
+  toc:
+    - file: index.md
+    - title: El suelo como medio poroso multifásico
+      children:
+        - file: notebooks/specific_surface.ipynb
+        - file: notebooks/particle_size_distrib.ipynb
+        - file: notebooks/uscs_classification.ipynb
+    - title: Esfuerzos en el suelo
+      children:
+        - file: notebooks/stress_vs_depth.ipynb
+        - file: notebooks/mohr_circles.ipynb
+        - file: notebooks/mohr_circles_and_stress_paths.ipynb
+    - title: Flujo de agua a través del suelo
+      children:
+        - file: notebooks/steady_flow_2D.ipynb
+        - file: notebooks/rainfall_infiltration_1D.ipynb
+    - title: Compresibilidad y consolidación
+      children:
+        - file: notebooks/consolidation_1D.ipynb
+        - file: notebooks/preconsol_pressure.ipynb
+site:
+  template: book-theme
+  options:
+    folders: true
+    logo_text: Mecánica de suelos · EAFIT
+

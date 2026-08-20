@@ -7,6 +7,7 @@ notebooks/granulometria.py
 *.eps
 notebooks/consolidation_1D_rf*
 notebooks/TRIG*
+/TRIGRS_1/
 DFR
 Doria_MSc_thesis
 Pizarro_MSc_thesis
@@ -84,6 +85,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+_build/
 
 # PyBuilder
 target/
@@ -142,3 +144,15 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+/notebooks/Doria_MSc_thesis_2
+
+# Material que no hace parte del Jupyter Book del curso
+/notebooks/DFR/
+/notebooks/Doria_MSc_thesis/
+/notebooks/Doria_MSc_thesis_2/
+/notebooks/Pizarro_MSc_thesis/
+/notebooks/TRIGRS_1/
+/notebooks/data/
+/notebooks/data_uncertainty/
+/notebooks/exploratory_data_analysis.ipynb
+/notebooks/exploratory_data_analysis_clay.ipynb
