@@ -6,10 +6,10 @@ Notas y herramientas para el curso de pregrado **Fundamentos de Mecánica de Sue
 
 ## Uso local
 
-Con el entorno ubicado en `/home/eamontoyaa/.venvs/EAFIT-uv/`:
+Con el entorno ubicado en `/home/eamontoyaa/.venvs/eafit-uv-env/`:
 
 ```bash
-source /home/eamontoyaa/.venvs/EAFIT-uv/bin/activate
+source /home/eamontoyaa/.venvs/eafit-uv-env/bin/activate
 pip install -r requirements.txt
 jupyter book build --html --strict
 ```
@@ -20,25 +20,25 @@ El sitio se genera en `_build/html`. Los notebooks también pueden abrirse indiv
 
 **El suelo como un medio poroso multifásico**
 
-1. [Superficie específica](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/specific_surface.ipynb) 
-1. [Distribución de tamaños de partícula](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/particle_size_distrib.ipynb)
-1. [Sistema de clasificación unificada de suelos - USCS](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/uscs_classification.ipynb)
+1. [Superficie específica](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/specific_surface.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/specific_surface.ipynb)
+1. [Distribución de tamaños de partícula](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/particle_size_distrib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/particle_size_distrib.ipynb)
+1. [Sistema de clasificación unificada de suelos - USCS](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/uscs_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/uscs_classification.ipynb)
 
 **Conceptos de la Mecánica Aplicada en Medios Porosos**
 
-1. [Esfuerzos verticales totales y efectivos en suelos estratificados](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/stress_vs_depth.ipynb)
-1. [Círculo de Mohr y círculo de tracciones](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles.ipynb)  
-1. [Círculo de Mohr vs trayectorias de esfuerzos](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb)
+1. [Esfuerzos verticales totales y efectivos en suelos estratificados](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/stress_vs_depth.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/stress_vs_depth.ipynb)
+1. [Círculo de Mohr y círculo de tracciones](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles.ipynb)
+1. [Círculo de Mohr vs trayectorias de esfuerzos](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb)
 
 **Flujo de Agua a Través del Suelo**
 
-1. [Infiltración unidimensional de lluvia](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/rainfall_infiltration_1D.ipynb)
-1. [Redes de flujo bidimensionales](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/steady_flow_2D.ipynb)
+1. [Infiltración unidimensional de lluvia](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/rainfall_infiltration_1D.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/rainfall_infiltration_1D.ipynb)
+1. [Redes de flujo bidimensionales](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/steady_flow_2D.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/steady_flow_2D.ipynb)
 
 **Respuesta Hidro-Mecánica de Geomateriales**
 
-1. [Consolidación unidimensional](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb)
-1. [Esfuerzo de preconsolidación o de fluencia](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb)
+1. [Consolidación unidimensional](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb)
+1. [Esfuerzo de preconsolidación o de fluencia](https://nbviewer.org/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb)
 
 ## Licencia
 
